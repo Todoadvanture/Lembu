@@ -89,7 +89,7 @@ konten = [
   },
 ];
 
-musik = "hbd yoel.mp3";
+musik = "hbd.mp3";
 nomorWhatsapp = "6283801639367";
 
 /*=========================*/
