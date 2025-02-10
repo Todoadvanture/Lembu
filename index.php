@@ -11,12 +11,6 @@
       </div>
     </div>
 <script>
-/*=========================
-Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
-+ Youtube: Deka Tutorial
-+ Tiktok: @deka_tutorial
-+ Instagram: deka_tutorial
-=========================*/
 
 konten = [
   {
@@ -93,4 +87,4 @@ musik = "hbd.mp3";
 nomorWhatsapp = "6283801639367";
 
 /*=========================*/
-</script><script> DekaTutorial(konten, musik, nomorWhatsapp); </script> </body> </html>
+</script><script> suin(konten, musik, nomorWhatsapp); </script> </body> </html>
